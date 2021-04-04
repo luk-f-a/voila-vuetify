@@ -1,5 +1,4 @@
 pandas
 voila
-jupyterlab
 ipyvuetify
 traitlets
